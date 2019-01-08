@@ -12,4 +12,5 @@ MicroBit menu system store multi-applications in one project
     6 - LED (Flashing/ Fading[]==========)
     7 - Buzzer (A - melody, B - Metronome)
     8 - Photo resistor - Light Dependent Resistor (LDR) 
-    9 - NeoPixel
+    9 - NeoPixel  
+    10 - Fan
