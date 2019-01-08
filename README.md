@@ -11,7 +11,7 @@ MicroBit menu system store multi-applications in one project
     5 - Stop Watch  
     6 - LED on P2 (Flashing/ Fading)
     7 - Buzzer on P0 (A - melody, B - Metronome)
-    8 - Photo resistor On P2 - Light Dependent Resistor (LDR) 
+    8 - Photo resistor On P1 - Light Dependent Resistor (LDR) 
     9 - NeoPixel on P2 
     10 - Fan On P2
     11 - Ultrasound Range Module on P1 P2
