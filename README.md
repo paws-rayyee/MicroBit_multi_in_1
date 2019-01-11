@@ -9,9 +9,8 @@ MicroBit menu system store multi-applications in one project
     3 - Accelerometer value  
     4 - Magic Hand  
     5 - Stop Watch  
-    6 - LED on P2 (Flashing/ Fading)
+    6 - LED/Fan on P2 (Flashing/ Fading)
     7 - Buzzer on P0 (A - melody, B - Metronome)
     8 - Photo resistor On P1 - Light Dependent Resistor (LDR) 
     9 - NeoPixel on P2 
-    10 - Fan On P2
-    11 - Ultrasound Range Module on P1 P2
+    10 - Servo on P1
